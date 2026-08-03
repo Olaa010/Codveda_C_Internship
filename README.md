@@ -1,8 +1,6 @@
 # Codveda C/C++ Development Internship - Complete Solution
 
 This repository contains solutions for ALL tasks across 3 levels. 
-As per instructions: you need to complete ANY 2 tasks per level.
-
 ## Structure
 
 ```
@@ -84,14 +82,5 @@ Same commands, but use .exe output.
 
 ## Internship Submission Checklist (from PDF)
 
-- Complete 2 tasks per level (you have all 8 ready)
-- Create GitHub repo and push code
-- Record explanation video
-- Post on LinkedIn, tag @Codveda, use #CodvedaJourney #CodvedaExperience #FutureWithCodveda #CodvedaProjects #CodvedaAchievements
-- Submit via Codveda submission form within 1 month
-- Include Offer Letter
-
-All codes are in C (compiles as C++ too) and follow the exact objectives listed in CC_Development_Task_List.pdf
-
-Author: Solution generated for Chibobo
+Author: Solution generated for Olajiga tunde
 Date: July 2026
