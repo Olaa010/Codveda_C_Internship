@@ -1,0 +1,24 @@
+# Compiled binaries
+calculator
+guess
+strings
+student_mgmt
+sort_search
+ds
+fs_sim
+prod_cons
+tictactoe
+Level1_Basic/string_manipulation
+Level1_Basic/string_manipulation_test
+
+# Runtime / test artifacts
+fs_meta.dat
+ola
+*.o
+*.exe
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
